@@ -1,0 +1,1 @@
+var isCheacked:boolean = true;

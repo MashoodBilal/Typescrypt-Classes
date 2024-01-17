@@ -1,0 +1,5 @@
+tsc -w compiles typescrypt file to .js file continously.
+-w is watch command
+Must use seccond cmd after this command.
+Only works when config file is assigned.
+ 
